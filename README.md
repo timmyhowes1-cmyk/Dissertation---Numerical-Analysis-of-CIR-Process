@@ -1,4 +1,4 @@
-This repository contains all code used for the generation of results in my MSc dissertation paper, which is also included in this repository. 
+## This repository contains all code used for the generation of results in my MSc dissertation paper, which is also included in this repository. 
 
 Explicit_Schemes.py contains function definitions to generate the CIR process using explicit numerical approximation schemes.
 
