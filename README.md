@@ -10,5 +10,4 @@ Parameter_Analysis.py contains the code to generate convergence analysis under d
 Prob_of_0.py contains the code to analyse the probability of schemes taking value 0.
 Prob_of_neg.py contains the code to analyse the probability of schemes taking negative values.
 
-Strong_Error_Analysis.py contains 
 
